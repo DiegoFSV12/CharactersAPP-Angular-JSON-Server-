@@ -1,4 +1,4 @@
-# HeroesApp
+# CharactersApp
 
 ## Dev
 1. Clonar el proyecto
